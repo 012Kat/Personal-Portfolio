@@ -22,7 +22,7 @@ A simple, responsive portfolio website built with HTML and CSS. Designed to show
 - `README.md` — Project overview
 
 🚀 Live Demo
-https://012Kat.github.io/E-Commerce/
+https://012Kat.github.io/Personal-Portfolio/
 
 👨‍💻 About Me
 I’m a final-year computer science student and web developer from South Africa, focused on building practical web solutions.
