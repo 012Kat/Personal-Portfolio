@@ -28,6 +28,6 @@ https://012Kat.github.io/Personal-Portfolio/
 I’m a final-year computer science student and web developer from South Africa, focused on building practical web solutions.
 
 📬 Contact
-- GitHub: [@YourGitHub](https://github.com/012Kat)
-- LinkedIn: [@YourLinkedIn](https://linkedin.com/in/katlego1401)
+- GitHub: https://github.com/012Kat
+- LinkedIn: https://linkedin.com/in/katlego1401
 - Email: katlego.mokoena1401@gmail.com
